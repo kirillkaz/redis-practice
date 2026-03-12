@@ -1,0 +1,18 @@
+[project]
+name = "redis-practice"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faker>=40.5.1",
+    "fastapi>=0.135.0",
+    "ipython>=9.10.0",
+    "mypy>=1.19.1",
+    "pydantic-settings>=2.13.1",
+    "pytest>=9.0.2",
+    "redis>=7.2.1",
+    "rq>=2.7.0",
+    "ruff>=0.15.4",
+    "uvicorn>=0.41.0",
+]

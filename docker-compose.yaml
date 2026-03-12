@@ -1,0 +1,37 @@
+x-common-environments: &common-environments
+  REDIS_HOST: redis
+  REDIS_PORT: 6379
+  
+
+services:
+  redis:
+    image: redis:8-alpine
+    restart: always
+    ports:
+      - "6379:6379"
+
+  api:
+    build: .
+    command: uv run uvicorn redis_practice.app:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    environment: 
+      <<: *common-environments
+    depends_on:
+      - redis
+
+  worker:
+    build: .
+    command: uv run rq worker gen_queue api_queue --url redis://redis:6379
+    environment:
+      <<: *common-environments
+    depends_on:
+      - redis
+
+  gen-scheduler:
+    build: .
+    command: uv run rq cron redis_practice/cron_scheduler.py
+    environment:
+      <<: *common-environments
+    depends_on:
+      - redis

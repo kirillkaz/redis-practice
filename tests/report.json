@@ -1,0 +1,420 @@
+{
+    "report_uuid": "83ba1577-7d43-420c-a865-b43bfe569922",
+    "total_sum": 230403.89,
+    "total_discount": 2439.71,
+    "total_items": 276,
+    "dates": {
+        "2026-01-05": {
+            "total_sum": 20914.6,
+            "total_count": 20,
+            "total_discount": 121.17,
+            "items": [
+                {
+                    "name_item": "Рыба",
+                    "total_count": 6,
+                    "total_sum": 5366.49,
+                    "total_discount": 54.14
+                },
+                {
+                    "name_item": "Шашлык",
+                    "total_count": 8,
+                    "total_sum": 5736.16,
+                    "total_discount": 62.96
+                },
+                {
+                    "name_item": "Кола",
+                    "total_count": 6,
+                    "total_sum": 9811.95,
+                    "total_discount": 4.07
+                }
+            ]
+        },
+        "2026-01-06": {
+            "total_sum": 11973.9,
+            "total_count": 21,
+            "total_discount": 124.11,
+            "items": [
+                {
+                    "name_item": "Мороженое",
+                    "total_count": 3,
+                    "total_sum": 817.78,
+                    "total_discount": 68.98
+                },
+                {
+                    "name_item": "Салат с курицей и винегретом",
+                    "total_count": 10,
+                    "total_sum": 2367.34,
+                    "total_discount": 29.29
+                },
+                {
+                    "name_item": "Панцакота",
+                    "total_count": 8,
+                    "total_sum": 8788.78,
+                    "total_discount": 25.84
+                }
+            ]
+        },
+        "2026-01-08": {
+            "total_sum": 18069.43,
+            "total_count": 22,
+            "total_discount": 95.55,
+            "items": [
+                {
+                    "name_item": "Рыба в сливочном соусе",
+                    "total_count": 5,
+                    "total_sum": 6271.81,
+                    "total_discount": 68.42
+                },
+                {
+                    "name_item": "Шашлык",
+                    "total_count": 8,
+                    "total_sum": 7553.95,
+                    "total_discount": 15.05
+                },
+                {
+                    "name_item": "Салат с яблоком и сыром",
+                    "total_count": 9,
+                    "total_sum": 4243.67,
+                    "total_discount": 12.08
+                }
+            ]
+        },
+        "2026-01-11": {
+            "total_sum": 20278.87,
+            "total_count": 32,
+            "total_discount": 269.48,
+            "items": [
+                {
+                    "name_item": "Пицца по баварски",
+                    "total_count": 4,
+                    "total_sum": 4586.69,
+                    "total_discount": 69.61
+                },
+                {
+                    "name_item": "Пицца с печенью",
+                    "total_count": 1,
+                    "total_sum": 7074.24,
+                    "total_discount": 83.58
+                },
+                {
+                    "name_item": "Плов",
+                    "total_count": 10,
+                    "total_sum": 6638.13,
+                    "total_discount": 37.93
+                },
+                {
+                    "name_item": "Курочка фри",
+                    "total_count": 8,
+                    "total_sum": 1092.8,
+                    "total_discount": 3.67
+                },
+                {
+                    "name_item": "Гамбургер с беконом",
+                    "total_count": 9,
+                    "total_sum": 887.01,
+                    "total_discount": 74.69
+                }
+            ]
+        },
+        "2026-01-13": {
+            "total_sum": 7476.62,
+            "total_count": 5,
+            "total_discount": 41.97,
+            "items": [
+                {
+                    "name_item": "Гамбургер с беконом",
+                    "total_count": 1,
+                    "total_sum": 6945.2,
+                    "total_discount": 30.57
+                },
+                {
+                    "name_item": "Филе тунца",
+                    "total_count": 4,
+                    "total_sum": 531.42,
+                    "total_discount": 11.4
+                }
+            ]
+        },
+        "2026-01-14": {
+            "total_sum": 833.98,
+            "total_count": 1,
+            "total_discount": 65.22,
+            "items": [
+                {
+                    "name_item": "Гамбургер с беконом",
+                    "total_count": 1,
+                    "total_sum": 833.98,
+                    "total_discount": 65.22
+                }
+            ]
+        },
+        "2026-01-15": {
+            "total_sum": 6555.53,
+            "total_count": 21,
+            "total_discount": 192.99,
+            "items": [
+                {
+                    "name_item": "Салат с винегретом и яйцом",
+                    "total_count": 9,
+                    "total_sum": 4512.21,
+                    "total_discount": 72.94
+                },
+                {
+                    "name_item": "Рыба в горчичном соусе",
+                    "total_count": 10,
+                    "total_sum": 1693.63,
+                    "total_discount": 24.86
+                },
+                {
+                    "name_item": "Омлет",
+                    "total_count": 2,
+                    "total_sum": 349.69,
+                    "total_discount": 95.19
+                }
+            ]
+        },
+        "2026-01-17": {
+            "total_sum": 32645.68,
+            "total_count": 37,
+            "total_discount": 214.76,
+            "items": [
+                {
+                    "name_item": "Кекс",
+                    "total_count": 6,
+                    "total_sum": 1174.82,
+                    "total_discount": 56.84
+                },
+                {
+                    "name_item": "Картофель фри",
+                    "total_count": 3,
+                    "total_sum": 6340.66,
+                    "total_discount": 9.87
+                },
+                {
+                    "name_item": "Блинчики",
+                    "total_count": 6,
+                    "total_sum": 3440.74,
+                    "total_discount": 19.38
+                },
+                {
+                    "name_item": "Блинчики",
+                    "total_count": 9,
+                    "total_sum": 9973.08,
+                    "total_discount": 18.3
+                },
+                {
+                    "name_item": "Пирожное",
+                    "total_count": 8,
+                    "total_sum": 4729.83,
+                    "total_discount": 14.85
+                },
+                {
+                    "name_item": "Блинчики с творогом",
+                    "total_count": 4,
+                    "total_sum": 1316.33,
+                    "total_discount": 59.84
+                },
+                {
+                    "name_item": "Пицца с мясом и грибами",
+                    "total_count": 1,
+                    "total_sum": 5670.22,
+                    "total_discount": 35.68
+                }
+            ]
+        },
+        "2026-01-18": {
+            "total_sum": 15980.75,
+            "total_count": 23,
+            "total_discount": 208.27,
+            "items": [
+                {
+                    "name_item": "Рыба в горчичном соусе",
+                    "total_count": 2,
+                    "total_sum": 2626.36,
+                    "total_discount": 33.83
+                },
+                {
+                    "name_item": "Салат с винегретом и яйцом",
+                    "total_count": 10,
+                    "total_sum": 3201.64,
+                    "total_discount": 37.42
+                },
+                {
+                    "name_item": "Рыба в горчичном соусе",
+                    "total_count": 9,
+                    "total_sum": 8533.73,
+                    "total_discount": 65.49
+                },
+                {
+                    "name_item": "Вареники",
+                    "total_count": 2,
+                    "total_sum": 1619.02,
+                    "total_discount": 71.53
+                }
+            ]
+        },
+        "2026-01-19": {
+            "total_sum": 16804.04,
+            "total_count": 12,
+            "total_discount": 126.25,
+            "items": [
+                {
+                    "name_item": "Блинчики с творогом",
+                    "total_count": 2,
+                    "total_sum": 7803,
+                    "total_discount": 97.06
+                },
+                {
+                    "name_item": "Рыба",
+                    "total_count": 10,
+                    "total_sum": 9001.04,
+                    "total_discount": 29.19
+                }
+            ]
+        },
+        "2026-01-21": {
+            "total_sum": 12891.6,
+            "total_count": 13,
+            "total_discount": 289.26,
+            "items": [
+                {
+                    "name_item": "Суп пельменный",
+                    "total_count": 1,
+                    "total_sum": 4873.19,
+                    "total_discount": 72.42
+                },
+                {
+                    "name_item": "Гамбургер с курицей",
+                    "total_count": 5,
+                    "total_sum": 6242.17,
+                    "total_discount": 88.37
+                },
+                {
+                    "name_item": "Мясной рулет",
+                    "total_count": 4,
+                    "total_sum": 781.69,
+                    "total_discount": 49.69
+                },
+                {
+                    "name_item": "Пицца с колбасой",
+                    "total_count": 3,
+                    "total_sum": 994.55,
+                    "total_discount": 78.78
+                }
+            ]
+        },
+        "2026-01-24": {
+            "total_sum": 9240.75,
+            "total_count": 7,
+            "total_discount": 15.52,
+            "items": [
+                {
+                    "name_item": "Рыба",
+                    "total_count": 7,
+                    "total_sum": 9240.75,
+                    "total_discount": 15.52
+                }
+            ]
+        },
+        "2026-01-27": {
+            "total_sum": 21680.44,
+            "total_count": 8,
+            "total_discount": 227.35,
+            "items": [
+                {
+                    "name_item": "Омлет",
+                    "total_count": 3,
+                    "total_sum": 8492.94,
+                    "total_discount": 69
+                },
+                {
+                    "name_item": "Пирожное",
+                    "total_count": 3,
+                    "total_sum": 7594.19,
+                    "total_discount": 87.16
+                },
+                {
+                    "name_item": "Закуска из рыбы",
+                    "total_count": 2,
+                    "total_sum": 5593.31,
+                    "total_discount": 71.19
+                }
+            ]
+        },
+        "2026-01-28": {
+            "total_sum": 3801.66,
+            "total_count": 14,
+            "total_discount": 101.62,
+            "items": [
+                {
+                    "name_item": "Мясной рулет",
+                    "total_count": 6,
+                    "total_sum": 2227.48,
+                    "total_discount": 37.24
+                },
+                {
+                    "name_item": "Фрукты",
+                    "total_count": 8,
+                    "total_sum": 1574.18,
+                    "total_discount": 64.38
+                }
+            ]
+        },
+        "2026-01-29": {
+            "total_sum": 20839.79,
+            "total_count": 18,
+            "total_discount": 139.7,
+            "items": [
+                {
+                    "name_item": "Суп с курицей",
+                    "total_count": 8,
+                    "total_sum": 7187,
+                    "total_discount": 2.37
+                },
+                {
+                    "name_item": "Хачапури",
+                    "total_count": 7,
+                    "total_sum": 7865.68,
+                    "total_discount": 41.38
+                },
+                {
+                    "name_item": "Пицца с печенью",
+                    "total_count": 3,
+                    "total_sum": 5787.11,
+                    "total_discount": 95.95
+                }
+            ]
+        },
+        "2026-01-30": {
+            "total_sum": 10416.25,
+            "total_count": 22,
+            "total_discount": 206.49,
+            "items": [
+                {
+                    "name_item": "Бургер",
+                    "total_count": 2,
+                    "total_sum": 435.78,
+                    "total_discount": 24.79
+                },
+                {
+                    "name_item": "Блинчики",
+                    "total_count": 10,
+                    "total_sum": 3968.55,
+                    "total_discount": 87.11
+                },
+                {
+                    "name_item": "Квашеная капуста",
+                    "total_count": 8,
+                    "total_sum": 3268.01,
+                    "total_discount": 12.94
+                },
+                {
+                    "name_item": "Закуски",
+                    "total_count": 2,
+                    "total_sum": 2743.91,
+                    "total_discount": 81.65
+                }
+            ]
+        }
+    }
+}

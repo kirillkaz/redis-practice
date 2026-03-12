@@ -1,0 +1,544 @@
+[
+    {
+        "address_delivery": "8947 Amy Port Suite 581\nHensonhaven, MI 87074",
+        "created_at": "2026-01-27 06:36:02.767666+00:00",
+        "full_name": "April Velasquez",
+        "items": [
+            {
+                "item_name": "Омлет",
+                "price": 8492.94,
+                "discount": 69,
+                "count": 3
+            },
+            {
+                "item_name": "Пирожное",
+                "price": 7594.19,
+                "discount": 87.16,
+                "count": 3
+            },
+            {
+                "item_name": "Закуска из рыбы",
+                "price": 5593.31,
+                "discount": 71.19,
+                "count": 2
+            }
+        ],
+        "number_phone": "492.237.6303",
+        "order_id": "8292dce2-1a1f-4667-88d5-9bee591f6305",
+        "price_delivery": 160.49
+    },
+    {
+        "address_delivery": "8947 Amy Port Suite 581\nHensonhaven, MI 87074",
+        "created_at": "2026-01-27 06:36:02.767666+00:00",
+        "full_name": "April Velasquez",
+        "items": [
+            {
+                "item_name": "Омлет",
+                "price": 8492.94,
+                "discount": 69,
+                "count": 3
+            },
+            {
+                "item_name": "Пирожное",
+                "price": 7594.19,
+                "discount": 87.16,
+                "count": 3
+            },
+            {
+                "item_name": "Закуска из рыбы",
+                "price": 5593.31,
+                "discount": 71.19,
+                "count": 2
+            }
+        ],
+        "number_phone": "492.237.6303",
+        "order_id": "8292dce2-1a1f-4667-88d5-9bee591f6305",
+        "price_delivery": 160.49
+    },
+    {
+        "address_delivery": "8947 Amy Port Suite 581\nHensonhaven, MI 87074",
+        "created_at": "2026-01-27 06:36:02.767666+00:00",
+        "full_name": "April Velasquez",
+        "items": [
+            {
+                "item_name": "Омлет",
+                "price": 8492.94,
+                "discount": 69,
+                "count": 3
+            },
+            {
+                "item_name": "Пирожное",
+                "price": 7594.19,
+                "discount": 87.16,
+                "count": 3
+            },
+            {
+                "item_name": "Закуска из рыбы",
+                "price": 5593.31,
+                "discount": 71.19,
+                "count": 2
+            }
+        ],
+        "number_phone": "492.237.6303",
+        "order_id": "8292dce2-1a1f-4667-88d5-9bee591f6305",
+        "price_delivery": 160.49
+    },
+    {
+        "address_delivery": "04715 Murphy Trail Apt. 668\nHunterberg, AR 00961",
+        "created_at": "2026-01-17 19:17:28.378574+00:00",
+        "full_name": "Julie Carroll",
+        "items": [
+            {
+                "item_name": "Блинчики с творогом",
+                "price": 1316.33,
+                "discount": 59.84,
+                "count": 4
+            },
+            {
+                "item_name": "Пицца с мясом и грибами",
+                "price": 5670.22,
+                "discount": 35.68,
+                "count": 1
+            }
+        ],
+        "number_phone": "(840)282-4011",
+        "order_id": "e6102fd5-c39c-4d02-9a6b-aa0d5069d9d6",
+        "price_delivery": 137.16
+    },
+    {
+        "address_delivery": "4610 Emily Centers Apt. 064\nNew Christopher, OK 31276",
+        "created_at": "2026-01-14 13:26:26.948702+00:00",
+        "full_name": "Daisy Anderson",
+        "items": [
+            {
+                "item_name": "Гамбургер с беконом",
+                "price": 833.98,
+                "discount": 65.22,
+                "count": 1
+            }
+        ],
+        "number_phone": "679.495.0810x9343",
+        "order_id": "385114b1-91d1-4a37-97db-fa55fc78983c",
+        "price_delivery": 136.93
+    },
+    {
+        "address_delivery": "4610 Emily Centers Apt. 064\nNew Christopher, OK 31276",
+        "created_at": "2026-01-14 13:26:26.948702+00:00",
+        "full_name": "Daisy Anderson",
+        "items": [
+            {
+                "item_name": "Гамбургер с беконом",
+                "price": 833.98,
+                "discount": 65.22,
+                "count": 1
+            }
+        ],
+        "number_phone": "679.495.0810x9343",
+        "order_id": "385114b1-91d1-4a37-97db-fa55fc78983c",
+        "price_delivery": 136.93
+    },
+    {
+        "address_delivery": "44648 Timothy Mill\nNorth Stanleyton, WI 30891",
+        "created_at": "2026-01-11 11:29:51.022170+00:00",
+        "full_name": "Jesse Thompson",
+        "items": [
+            {
+                "item_name": "Пицца по баварски",
+                "price": 4586.69,
+                "discount": 69.61,
+                "count": 4
+            },
+            {
+                "item_name": "Пицца с печенью",
+                "price": 7074.24,
+                "discount": 83.58,
+                "count": 1
+            },
+            {
+                "item_name": "Плов",
+                "price": 6638.13,
+                "discount": 37.93,
+                "count": 10
+            },
+            {
+                "item_name": "Курочка фри",
+                "price": 1092.8,
+                "discount": 3.67,
+                "count": 8
+            },
+            {
+                "item_name": "Гамбургер с беконом",
+                "price": 887.01,
+                "discount": 74.69,
+                "count": 9
+            }
+        ],
+        "number_phone": "(267)667-6280x61541",
+        "order_id": "d69c390b-b611-4e26-b36c-60bb898d6a73",
+        "price_delivery": 150.24
+    },
+    {
+        "address_delivery": "1165 Rosales Drive\nSouth John, IA 90706",
+        "created_at": "2026-01-21 12:03:16.713127+00:00",
+        "full_name": "Abigail Ward",
+        "items": [
+            {
+                "item_name": "Суп пельменный",
+                "price": 4873.19,
+                "discount": 72.42,
+                "count": 1
+            },
+            {
+                "item_name": "Гамбургер с курицей",
+                "price": 6242.17,
+                "discount": 88.37,
+                "count": 5
+            },
+            {
+                "item_name": "Мясной рулет",
+                "price": 781.69,
+                "discount": 49.69,
+                "count": 4
+            },
+            {
+                "item_name": "Пицца с колбасой",
+                "price": 994.55,
+                "discount": 78.78,
+                "count": 3
+            }
+        ],
+        "number_phone": "753.790.5849",
+        "order_id": "d1b99242-0b97-4398-9c85-ecdba971dc20",
+        "price_delivery": 134.37
+    },
+    {
+        "address_delivery": "719 Brian Keys Suite 860\nLake Debra, ND 80482",
+        "created_at": "2026-01-24 19:21:54.682108+00:00",
+        "full_name": "Ryan Cobb",
+        "items": [
+            {
+                "item_name": "Рыба",
+                "price": 9240.75,
+                "discount": 15.52,
+                "count": 7
+            }
+        ],
+        "number_phone": "001-856-943-5717x197",
+        "order_id": "5d4eeec6-4002-4dd1-ad9f-de36a7a4635e",
+        "price_delivery": 178.52
+    },
+    {
+        "address_delivery": "39498 Shannon Estates Suite 538\nEmilybury, WI 22205",
+        "created_at": "2026-01-13 08:49:16.520712+00:00",
+        "full_name": "Steven Watson",
+        "items": [
+            {
+                "item_name": "Гамбургер с беконом",
+                "price": 6945.2,
+                "discount": 30.57,
+                "count": 1
+            },
+            {
+                "item_name": "Филе тунца",
+                "price": 531.42,
+                "discount": 11.4,
+                "count": 4
+            }
+        ],
+        "number_phone": "652.348.9999",
+        "order_id": "444970d0-cdda-456d-956e-e2bcfd7e1b0b",
+        "price_delivery": 165.61
+    },
+    {
+        "address_delivery": "786 Alexa Common\nLake Kristiland, PW 49598",
+        "created_at": "2026-01-05 07:28:55.043941+00:00",
+        "full_name": "Stephanie Carpenter",
+        "items": [
+            {
+                "item_name": "Рыба",
+                "price": 5366.49,
+                "discount": 54.14,
+                "count": 6
+            },
+            {
+                "item_name": "Шашлык",
+                "price": 5736.16,
+                "discount": 62.96,
+                "count": 8
+            },
+            {
+                "item_name": "Кола",
+                "price": 9811.95,
+                "discount": 4.07,
+                "count": 6
+            }
+        ],
+        "number_phone": "001-446-685-5599",
+        "order_id": "76d8af3d-cf5d-4d89-9d44-88c57b4b1725",
+        "price_delivery": 196.69
+    },
+    {
+        "address_delivery": "605 Edwards Isle\nAlexanderfort, AR 80987",
+        "created_at": "2026-01-30 13:56:22.564708+00:00",
+        "full_name": "Charles Moore",
+        "items": [
+            {
+                "item_name": "Бургер",
+                "price": 435.78,
+                "discount": 24.79,
+                "count": 2
+            },
+            {
+                "item_name": "Блинчики",
+                "price": 3968.55,
+                "discount": 87.11,
+                "count": 10
+            },
+            {
+                "item_name": "Квашеная капуста",
+                "price": 3268.01,
+                "discount": 12.94,
+                "count": 8
+            },
+            {
+                "item_name": "Закуски",
+                "price": 2743.91,
+                "discount": 81.65,
+                "count": 2
+            }
+        ],
+        "number_phone": "+1-850-663-7812x27651",
+        "order_id": "b1d04945-94d8-4d46-b587-bc47ba6457eb",
+        "price_delivery": 129.58
+    },
+    {
+        "address_delivery": "PSC 2494, Box 5663\nAPO AA 72353",
+        "created_at": "2026-01-19 18:13:14.846716+00:00",
+        "full_name": "Stacey Ruiz",
+        "items": [
+            {
+                "item_name": "Блинчики с творогом",
+                "price": 7803,
+                "discount": 97.06,
+                "count": 2
+            },
+            {
+                "item_name": "Рыба",
+                "price": 9001.04,
+                "discount": 29.19,
+                "count": 10
+            }
+        ],
+        "number_phone": "217.285.7938",
+        "order_id": "3ab37559-9f85-4825-bf0b-08a5a390458f",
+        "price_delivery": 199.25
+    },
+    {
+        "address_delivery": "959 Richard Crossing Suite 109\nHillfurt, GU 07491",
+        "created_at": "2026-01-28 04:05:48.157084+00:00",
+        "full_name": "Julie Morrison",
+        "items": [
+            {
+                "item_name": "Мясной рулет",
+                "price": 2227.48,
+                "discount": 37.24,
+                "count": 6
+            },
+            {
+                "item_name": "Фрукты",
+                "price": 1574.18,
+                "discount": 64.38,
+                "count": 8
+            }
+        ],
+        "number_phone": "(788)639-3531",
+        "order_id": "8bbe8b6e-c90b-43f4-9036-f41fa3ca4913",
+        "price_delivery": 184.23
+    },
+    {
+        "address_delivery": "USNS West\nFPO AA 72083",
+        "created_at": "2026-01-08 12:36:13.573693+00:00",
+        "full_name": "Gregory Webb",
+        "items": [
+            {
+                "item_name": "Рыба в сливочном соусе",
+                "price": 6271.81,
+                "discount": 68.42,
+                "count": 5
+            },
+            {
+                "item_name": "Шашлык",
+                "price": 7553.95,
+                "discount": 15.05,
+                "count": 8
+            },
+            {
+                "item_name": "Салат с яблоком и сыром",
+                "price": 4243.67,
+                "discount": 12.08,
+                "count": 9
+            }
+        ],
+        "number_phone": "(403)253-3438x976",
+        "order_id": "027c2d21-f8f8-49ae-b877-dece05d3282e",
+        "price_delivery": 188.14
+    },
+    {
+        "address_delivery": "80923 Jason Parks\nWest David, IN 90864",
+        "created_at": "2026-01-17 08:14:13.445590+00:00",
+        "full_name": "Jennifer Yates",
+        "items": [
+            {
+                "item_name": "Кекс",
+                "price": 1174.82,
+                "discount": 56.84,
+                "count": 6
+            },
+            {
+                "item_name": "Картофель фри",
+                "price": 6340.66,
+                "discount": 9.87,
+                "count": 3
+            },
+            {
+                "item_name": "Блинчики",
+                "price": 3440.74,
+                "discount": 19.38,
+                "count": 6
+            },
+            {
+                "item_name": "Блинчики",
+                "price": 9973.08,
+                "discount": 18.3,
+                "count": 9
+            },
+            {
+                "item_name": "Пирожное",
+                "price": 4729.83,
+                "discount": 14.85,
+                "count": 8
+            }
+        ],
+        "number_phone": "001-409-295-0996x3806",
+        "order_id": "bee81fe6-1e24-434a-889f-2a1ac4f94a52",
+        "price_delivery": 128.81
+    },
+    {
+        "address_delivery": "484 Perez Well\nAllenton, PW 97830",
+        "created_at": "2026-01-06 16:15:58.968704+00:00",
+        "full_name": "Deborah Drake",
+        "items": [
+            {
+                "item_name": "Мороженое",
+                "price": 817.78,
+                "discount": 68.98,
+                "count": 3
+            },
+            {
+                "item_name": "Салат с курицей и винегретом",
+                "price": 2367.34,
+                "discount": 29.29,
+                "count": 10
+            },
+            {
+                "item_name": "Панцакота",
+                "price": 8788.78,
+                "discount": 25.84,
+                "count": 8
+            }
+        ],
+        "number_phone": "372-267-9620",
+        "order_id": "b62ed520-ed42-4e20-816f-b265d09fc171",
+        "price_delivery": 194.37
+    },
+    {
+        "address_delivery": "408 Ford Streets\nNew Elizabethchester, ME 39508",
+        "created_at": "2026-01-18 20:33:18.829585+00:00",
+        "full_name": "Rebecca Taylor",
+        "items": [
+            {
+                "item_name": "Рыба в горчичном соусе",
+                "price": 2626.36,
+                "discount": 33.83,
+                "count": 2
+            },
+            {
+                "item_name": "Салат с винегретом и яйцом",
+                "price": 3201.64,
+                "discount": 37.42,
+                "count": 10
+            },
+            {
+                "item_name": "Рыба в горчичном соусе",
+                "price": 8533.73,
+                "discount": 65.49,
+                "count": 9
+            },
+            {
+                "item_name": "Вареники",
+                "price": 1619.02,
+                "discount": 71.53,
+                "count": 2
+            }
+        ],
+        "number_phone": "670-353-1988",
+        "order_id": "fb73060e-2e06-4d92-8e51-df8727ffb7f0",
+        "price_delivery": 192.17
+    },
+    {
+        "address_delivery": "17469 Sergio Skyway Apt. 601\nSouth Brianborough, AL 37292",
+        "created_at": "2026-01-15 05:48:58.508628+00:00",
+        "full_name": "Tonya Carter",
+        "items": [
+            {
+                "item_name": "Салат с винегретом и яйцом",
+                "price": 4512.21,
+                "discount": 72.94,
+                "count": 9
+            },
+            {
+                "item_name": "Рыба в горчичном соусе",
+                "price": 1693.63,
+                "discount": 24.86,
+                "count": 10
+            },
+            {
+                "item_name": "Омлет",
+                "price": 349.69,
+                "discount": 95.19,
+                "count": 2
+            }
+        ],
+        "number_phone": "376.524.3056x889",
+        "order_id": "610f9191-d482-4476-af4a-7975a3a29298",
+        "price_delivery": 120.73
+    },
+    {
+        "address_delivery": "213 Nicole Trail Apt. 602\nEast Samanthaside, ID 41060",
+        "created_at": "2026-01-29 07:16:11.361969+00:00",
+        "full_name": "Austin Montgomery",
+        "items": [
+            {
+                "item_name": "Суп с курицей",
+                "price": 7187,
+                "discount": 2.37,
+                "count": 8
+            },
+            {
+                "item_name": "Хачапури",
+                "price": 7865.68,
+                "discount": 41.38,
+                "count": 7
+            },
+            {
+                "item_name": "Пицца с печенью",
+                "price": 5787.11,
+                "discount": 95.95,
+                "count": 3
+            }
+        ],
+        "number_phone": "(526)449-9670x2162",
+        "order_id": "d12e3eed-1b42-4fe2-9b3b-97afa37f79c7",
+        "price_delivery": 132.97
+    }
+]
