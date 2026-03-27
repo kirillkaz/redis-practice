@@ -86,6 +86,7 @@ class OrdersRedisProvider:
         print(f"{record_ids=}")
         if record_ids:
             raw_result = self._conn.hmget(self.data_key, record_ids)
-            result = [json.loads(record) for record in raw_result]
-            return result
+            if raw_result:
+                result = [json.loads(record) for record in raw_result]
+                return result
         return []
