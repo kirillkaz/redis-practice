@@ -1,10 +1,10 @@
 from typing import Annotated
 from uuid import UUID, uuid4
 
-from fastapi import APIRouter, Body, Query
+from fastapi import APIRouter, Body, HTTPException, Query
+from rq.exceptions import NoSuchJobError
 from rq.job import Job
 
-from redis_practice.api.depends.report_service_depend import report_service_depend
 from redis_practice.api.schemas.reports import (
     CreateReportsBodySchema,
     GetReportsQuerySchema,
@@ -12,7 +12,6 @@ from redis_practice.api.schemas.reports import (
 )
 from redis_practice.queues import api_q
 from redis_practice.redis_client import redis_client
-from redis_practice.services.reports import ReportCreateService
 from redis_practice.tasks.report import create_report_task
 
 reports_router = APIRouter(prefix="/reports")
@@ -40,7 +39,11 @@ async def get_results_report(
     query: Annotated[GetReportsQuerySchema, Query(...)],
 ) -> ReportSchema:
     """Route для получения отчёта заказов клиентов"""
-    job = Job.fetch(id=str(query.report_uuid), connection=redis_client)
+    try:
+        job = Job.fetch(id=str(query.report_uuid), connection=redis_client)
+    except NoSuchJobError as ex:
+        raise HTTPException(
+            status_code=422, detail=f"unknown task id: {query.report_uuid}"
+        ) from ex
     result = job.result
-    print(result)
     return result
