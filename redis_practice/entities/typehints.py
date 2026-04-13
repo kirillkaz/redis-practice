@@ -7,6 +7,7 @@ class QueuesEnum(StrEnum):
 
     GEN_QUEUE = "gen_queue"
     API_QUEUE = "api_queue"
+    CLEAR_QUEUE = "clear_queue"
 
 
 type DateStr = str
