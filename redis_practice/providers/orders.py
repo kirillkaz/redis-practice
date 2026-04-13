@@ -1,5 +1,4 @@
 import json
-from datetime import datetime
 from logging import Logger
 from typing import cast
 from uuid import UUID
@@ -16,7 +15,6 @@ class OrdersRedisProvider:
     """Провайдер Redis для заказов клиентов"""
 
     KEY_PREFIX = "orders"
-    KEY_TTL = 180
 
     def __init__(self, conn: Redis) -> None:
         self._conn = conn
@@ -36,12 +34,11 @@ class OrdersRedisProvider:
         pipe = self._conn.pipeline()
         pipe.zadd(
             self.ordered_keys_key, {order["order_id"]: order_value}
-        )  # TODO: будет бесконечно расти. :(
-        pipe.hsetex(
+        )
+        pipe.hset(
             self.data_key,
             order["order_id"],
             value=json.dumps(order),
-            ex=self.KEY_TTL,
         )
 
         pipe.execute()
@@ -83,10 +80,17 @@ class OrdersRedisProvider:
             ),
         )
         record_ids = [item.decode() for item in record_ids_raw]
-        print(f"{record_ids=}")
         if record_ids:
             raw_result = self._conn.hmget(self.data_key, record_ids)
+            print(raw_result)
             if raw_result:
                 result = [json.loads(record) for record in raw_result]
                 return result
         return []
+
+    def clear(self) -> None:
+        """Метод для отчистки кеша"""
+        with self._conn.pipeline() as pipe:
+            pipe.delete(self.ordered_keys_key)
+            pipe.delete(self.data_key)
+            pipe.execute()
