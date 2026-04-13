@@ -22,7 +22,7 @@ services:
 
   worker:
     build: .
-    command: uv run rq worker gen_queue api_queue --url redis://redis:6379
+    command: uv run rq worker clear_queue gen_queue api_queue --url redis://redis:6379
     environment:
       <<: *common-environments
     depends_on:
